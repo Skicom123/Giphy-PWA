@@ -1,0 +1,15 @@
+.categories-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.categories {
+  width: 150px;
+}
+
+.categories-list h1 {
+  color: black;
+  font-size: 48px;
+}

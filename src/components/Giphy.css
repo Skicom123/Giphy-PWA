@@ -1,0 +1,17 @@
+.formstyle {
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin: auto;
+  transform: translateX(120%);
+}
+/* .centering {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+} */
+
+.random-page {
+  height: 100vh;
+}

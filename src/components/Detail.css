@@ -1,0 +1,9 @@
+.Title {
+  color: blue;
+}
+.Content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
